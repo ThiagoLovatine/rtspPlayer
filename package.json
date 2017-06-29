@@ -1,0 +1,32 @@
+{
+  "name": "rtspPlayer",
+  "version": "1.0.0",
+  "description": "RTSP player iOS plugin.",
+  "cordova": {
+    "id": "com.recaisinekli.rtspPlayer",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoLovatine/rtspPlayer"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThiagoLovatine/rtspPlayer/issues"
+  },
+  "homepage": "https://github.com/ThiagoLovatine/rtspPlayer"
+}
